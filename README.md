@@ -14,6 +14,7 @@ Most of my production work is closed source client work, so the public surface h
 ## Projects
 
 * [Cerberus](https://github.com/nohaill/Cerberus): open source multi-layer LLM security gateway (classifier ensemble, RAG policy layer, LangGraph decision graph, red-team eval harness)
+* [CrimeShield](https://github.com/nohaill/CrimeShield): crime-aware safest-route navigation for Karachi — severity + time-of-day weighted route scoring, PostGIS jurisdiction detection (React Native + ASP.NET Core, FYP)
 
 ## Stack
 
