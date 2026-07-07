@@ -11,6 +11,10 @@ Most of my production work is closed source client work, so the public surface h
 * Enterprise document intelligence and RAG systems (client work, closed source)
 * Writing about production RAG and agent architecture at [muhammadnohail.com](https://muhammadnohail.com)
 
+## Projects
+
+* [Cerberus](https://github.com/nohaill/Cerberus): open source multi-layer LLM security gateway (classifier ensemble, RAG policy layer, LangGraph decision graph, red-team eval harness)
+
 ## Stack
 
 * `Python` `FastAPI` `PostgreSQL` `Qdrant` `OpenAI API` `MCP` for AI systems
